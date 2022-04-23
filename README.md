@@ -25,5 +25,7 @@
 https://preview.themeforest.net/item/redirect-blood-donation-campaign-activism-elementor-template-kit/full_screen_preview/33524742?_ga=2.129176204.1431668345.1650630158-782784826.1650630158&_gac=1.162478414.1650630158.Cj0KCQjwpImTBhCmARIsAKr58cy3i_HhlL4P5oTF-Gq6KTfXBZTlpgJA5GLNF4bwg6Aq_-kL2ZDo064aAhLsEALw_wcB
 
 https://cdn.dribbble.com/users/2012027/screenshots/11288587/media/644df3db7b16af119bb7ca6befa77d08.png?compress=1&resize=1200x900&vertical=top
-
+> Questionnaire a inclure dans le dashboard : 
 https://codepen.io/gatoledo1/pen/abWqGGj?editors=0110
+> MAP API :
+https://www.youtube.com/watch?v=Zxf1mnP5zcw
