@@ -3,7 +3,7 @@
 + Read about security with php in the login and sign up : 
 > code+ tuto : https://www.youtube.com/watch?v=pIO0pmMTJ6Y
 
-~+ Crer un Dashboard : ~
+~+ Crer un Dashboard :~
 ~> code + tuto : https://www.youtube.com/watch?v=CkVrmLLHmuI~
 
 + Ajouter une section de "Post Box" dans le Dashboard: 
