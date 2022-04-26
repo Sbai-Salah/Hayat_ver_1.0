@@ -12,3 +12,4 @@
 + My code Pen - PieChart : https://codepen.io/__7salah__/pen/WNdqxyE?editors=0010
 + Bootstrap form templates : https://mdbootstrap.com/docs/standard/extended/registration/
 + Form Secure registration process : https://codeshack.io/secure-registration-system-php-mysql/
++ Temoinage Tailwind template : https://tailwind-elements.com/docs/standard/components/testimonials/
