@@ -5,7 +5,7 @@
 
 ### Things to do : 
 
-+ Ajouter un eventListener click on button DONNER pour suprimer la partie table-data
+~+ Ajouter un eventListener click on button DONNER pour suprimer la partie table-data~
 
 ### References : 
 
