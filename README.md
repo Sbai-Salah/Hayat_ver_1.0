@@ -21,6 +21,7 @@
 + Modifier le footer: partie "subscribe to email" 
 + Modifier la partie "News" et ajouter les actialites dans le Maroc
 + Dans le home page ajouter une partie "Processur du don" sous forme d'un accordion : https://tailwind-elements.com/docs/standard/components/accordion/
++ We can add a scroll back to top : https://tailwind-elements.com/snippets/tailwind/tailwindelements/3681385?view=side#js-tab-view
 ## LINKS TO VISITS : 
 https://preview.themeforest.net/item/redirect-blood-donation-campaign-activism-elementor-template-kit/full_screen_preview/33524742?_ga=2.129176204.1431668345.1650630158-782784826.1650630158&_gac=1.162478414.1650630158.Cj0KCQjwpImTBhCmARIsAKr58cy3i_HhlL4P5oTF-Gq6KTfXBZTlpgJA5GLNF4bwg6Aq_-kL2ZDo064aAhLsEALw_wcB
 
