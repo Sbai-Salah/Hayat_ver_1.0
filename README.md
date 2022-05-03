@@ -36,3 +36,5 @@ https://www.youtube.com/watch?v=Zxf1mnP5zcw
 
 > Contact Form linked with DB : 
 https://phppot.com/php/php-contact-form/
+
+> Source de temoinages : https://www.oneblood.org/i-am-oneblood/testimonials/
