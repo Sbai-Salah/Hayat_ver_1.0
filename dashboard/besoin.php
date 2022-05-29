@@ -1,7 +1,4 @@
-<?php include("./dashboard-connections/connection.php");
-
-
-?>
+<?php include("../HayatConnection/connection.php"); ?>
 <!DOCTYPE html>
 <html lang="en">
 

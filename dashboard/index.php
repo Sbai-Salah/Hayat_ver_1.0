@@ -1,4 +1,4 @@
-<?php include("./dashboard-connections/connection.php") ?>
+<?php include("../HayatConnection/connection.php"); ?>
 <!DOCTYPE html>
 <html lang="en">
 
@@ -9,7 +9,7 @@
     <!-- Boxicons -->
     <link href="https://unpkg.com/boxicons@2.0.9/css/boxicons.min.css" rel="stylesheet" />
     <!-- My CSS -->
-    <link rel="stylesheet" href="style.css" />
+    <link rel="stylesheet" href="style_dash.css" />
 
     <title>HAYAT| Dashboard</title>
     <style>

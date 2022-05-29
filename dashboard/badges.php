@@ -1,15 +1,4 @@
-<?php include("./dashboard-connections/connection.php");
-// if (!isset($_POST['nom'], $_POST['prenom'], $_POST['ville'], $_POST['date_nais'], $_POST['date_don'], $_POST['cin'], $_POST['telephone'])) {
-//     echo ('Please complete the registration form!');
-// }
-// if (empty($_POST['nom']) || empty($_POST['prenom']) || empty($_POST['ville']) || empty($_POST['date_nais']) || empty($_POST['date_don']) || empty($_POST['cin']) || empty($_POST['telephone'])) {
-//     echo ('Please complete the registration form');
-// }
-
-
-
-
-?>
+<?php include("../HayatConnection/connection.php"); ?>
 <!DOCTYPE html>
 <html lang="en">
 
@@ -181,11 +170,11 @@
             $new_n = intval(1020 + $n);
             $new_nn = intval(1000 + $nn);
 
-            $get_nom = "select nom, ville from donnation";
+            $get_nom = "select user_name from users_new ORDER BY id DESC LIMIT 1;";
             $bb = mysqli_query($con, $get_nom);
             $profil_name = mysqli_fetch_assoc($bb);
-            $smya = $profil_name['nom'];
-            $lmdina = $profil_name['ville'];
+            $smya = $profil_name['user_name'];
+            // $lmdina = $profil_name['ville'];
             ?>
             <!-- 1020 just for clarification and to make the number big :) -->
 
@@ -219,7 +208,7 @@
                     <i class="bx bxs-calendar-check" style="display:none;"></i>
                     <span class="text" style="width: 100%;text-align: center;">
                         <?php echo "<h3>Salam $smya</h3>" ?>
-                        <?php echo "<p>$lmdina</p>" ?>
+                        <?php echo "<h3>Salam $nanaym</h3>" ?>
 
                     </span>
                 </li>

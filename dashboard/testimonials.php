@@ -1,7 +1,4 @@
-<?php include("./dashboard-connections/connection.php");
-
-
-?>
+<?php include("../HayatConnection/connection.php"); ?>
 <!DOCTYPE html>
 <html lang="en">
 
@@ -31,11 +28,10 @@
         <!-- NAVBAR -->
         <?php include("./fixed_sections/navbar_section_dashboard.php");
 
-        $get_nom = "select nom, prenom from donnation";
-        $bb = mysqli_query($con, $get_nom);
-        $profil_name = mysqli_fetch_assoc($bb);
-        $smya = $profil_name['nom'];
-        $knya = $profil_name['prenom'];
+        $get_nom = "select user_name from users_new ORDER BY id DESC LIMIT 1;";
+        $res = mysqli_query($con, $get_nom);
+        $profil_name = mysqli_fetch_assoc($res);
+        $smya = $profil_name['user_name'];
         ?>
         <!-- NAVBAR -->
 
@@ -43,7 +39,7 @@
         <main>
             <div class="head-title">
                 <div class="left">
-                    <h1 class="upper-title-three-divs">Merci <?php echo $smya . ' ' . $knya; ?></h1>
+                    <h1 class="upper-title-three-divs">Merci <?php echo $smya; ?></h1>
                     <ul class="breadcrumb">
                         <li>
                             <a href="#">Temoinage</a>
