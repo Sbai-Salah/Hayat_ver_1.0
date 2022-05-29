@@ -21,13 +21,13 @@
                     if ($user_data['password'] === $password) {
 
                         $_SESSION['user_id'] = $user_data['user_id'];
-                        header("Location: to_be_located.php");
+                        header("Location: /Hayat/dashboard");
                         die;
                     }
                 }
             }
 
-            echo "wrong username or password!";
+            // echo "wrong username or password!";
         } else {
             echo "wrong username or password!";
         }

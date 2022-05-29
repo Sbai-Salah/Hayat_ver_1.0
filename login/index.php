@@ -1,12 +1,9 @@
 <?php
 session_start();
 
-include("connection.php");
+include("../HayatConnection/connection.php");
 include("functions.php");
-
-
-
-
+include("login.php");
 ?>
 
 
@@ -474,7 +471,13 @@ include("functions.php");
             </a>
           </div>
         </form>
-        <?php include("login.php"); ?>
+        <?php  ?>
+
+        <!-- =================
+      =====================
+    ============================
+  =========================
+============================== -->
         <form action="#" class="sign-up-form" method="POST">
 
           <h2 class="title">Sign up</h2>
