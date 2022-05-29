@@ -149,7 +149,7 @@
                         </li>
                     </ul>
                 </div>
-                <a href="ScreensForReadme/Puisse-je donner.docx.pdf" class="btn-download">
+                <a href="../ScreensForReadme/Puisse-je donner.docx.pdf" target="_blank" class="btn-download">
                     <i class="bx bxs-cloud-download"></i>
                     <span class="text">Download PDF</span>
                 </a>
