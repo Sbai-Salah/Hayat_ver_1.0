@@ -71,7 +71,7 @@
                         </li>
                     </ul>
                 </div>
-                <a href="#" class="btn-download">
+                <a href="../ScreensForReadme/Puisse-je donner.docx.pdf" target="_blank" class="btn-download">
                     <i class="bx bxs-cloud-download"></i>
                     <span class="text">Download PDF</span>
                 </a>
