@@ -1,7 +1,8 @@
 # HAYAT | Digitalisation du processus du don du sang au Maroc
 
-![banner]()
+![banner](https://github.com/Sbai-Salah/Hayat_ver_1.0/blob/main/ScreensForReadme/banner.PNG)
 
+![preloader](https://github.com/Sbai-Salah/Hayat_ver_1.0/blob/main/gif_1.gif)
 
 ```
 Projet Dev Web 2022
@@ -11,13 +12,13 @@ Realiser par :
 ```
 ---------
 
-> Partie 1 : [POURQUOI CE PROJET ? ]()
+> Partie 1 : [POURQUOI CE PROJET ? ](#pourquoi-ce-projet-)
  
-> Partie 2 : [MODELISATION GRAPHIQUE DU SITE WEB]()
+> Partie 2 : [MODELISATION GRAPHIQUE DU SITE WEB](#modelisation-graphique-du-site-web)
  
-> Partie 3 : [QUELQUES PAGES DU SITE WEB]()
+> Partie 3 : [QUELQUES PAGES DU SITE WEB](#quelques-pages-du-site-web-)
 
-> Partie 4 : [COMMENT METTRE LE PROJET EN TRAVAIL]()
+> Partie 4 : [COMMENT METTRE LE PROJET EN TRAVAIL](#comment-mettre-le-projet-en-travail-)
 
 ---------
 
@@ -29,18 +30,19 @@ là pour répondre à toutes ces questions relatives au don de sang et vous indi
 
 ## MODELISATION GRAPHIQUE DU SITE WEB
 
-![img1]()
+![img1](https://github.com/Sbai-Salah/Hayat_ver_1.0/blob/main/ScreensForReadme/img1.PNG)
 
 
 ## QUELQUES PAGES DU SITE WEB : 
 
-![preloader]()
 
-![home page]()
+![home page](https://github.com/Sbai-Salah/Hayat_ver_1.0/blob/main/ScreensForReadme/img2.PNG)
 
-![login]()
-
-![dashboard]()
+![home page](https://github.com/Sbai-Salah/Hayat_ver_1.0/blob/main/ScreensForReadme/img3.PNG)
+![home page](https://github.com/Sbai-Salah/Hayat_ver_1.0/blob/main/ScreensForReadme/img4.PNG)
+![home page](https://github.com/Sbai-Salah/Hayat_ver_1.0/blob/main/ScreensForReadme/img5.PNG)
+![home page](https://github.com/Sbai-Salah/Hayat_ver_1.0/blob/main/ScreensForReadme/img6.PNG)
+![home page](https://github.com/Sbai-Salah/Hayat_ver_1.0/blob/main/ScreensForReadme/img7.PNG)
 
 ## COMMENT METTRE LE PROJET EN TRAVAIL : 
 
