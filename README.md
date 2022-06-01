@@ -4,6 +4,9 @@
 
 ![preloader](https://github.com/Sbai-Salah/Hayat_ver_1.0/blob/main/gif_1.gif)
 
+> DEMO of the home page : [HOME PAGE ONLINE](https://sbai-salah.github.io/Hayat_ver_1.0/)
+
+
 ```
 Projet Dev Web 2022
 Realiser par : 
